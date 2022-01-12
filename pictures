@@ -1,1 +1,5 @@
-
+$ git add --all
+$ git status
+# On branch main
+# Changes to be committed:
+# (use "git reset HEAD <file>..." to unstage)
